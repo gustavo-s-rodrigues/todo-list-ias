@@ -41,7 +41,7 @@
     "@opentelemetry/auto-instrumentations-node": "^0.33.0",
     "@opentelemetry/core": "^2.0.0",
     "@opentelemetry/exporter-trace-otlp-proto": "^0.33.0",
-    "@opentelemetry/sdk-node": "^0.33.0",
+    "@opentelemetry/sdk-node": "^0.217.0",
     "@opentelemetry/semantic-conventions": "^1.5.0",
     "@vendia/serverless-express": "^4.9.0",
     "aws-serverless-express": "^3.4.0",
