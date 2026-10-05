@@ -52,7 +52,7 @@
     "class-validator": "^0.14.0",
     "reflect-metadata": "0.1.13",
     "rxjs": "7.5.7",
-    "uuid": "^9.0.0"
+    "uuid": "^11.0.0"
   },
   "overrides": {
     "minimist": "1.2.7",
